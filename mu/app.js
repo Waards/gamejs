@@ -35,7 +35,7 @@ function createName() {
   "Tester"
   ]);
   const animal = randomFromArray([
-  
+  "User"
   ]);
   return `${prefix} ${animal}`;
 }
