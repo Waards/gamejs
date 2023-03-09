@@ -32,7 +32,7 @@ function getKeyString(x, y) {
 
 function createName() {
   const prefix = randomFromArray([
-  
+  "Tester"
   ]);
   const animal = randomFromArray([
   
