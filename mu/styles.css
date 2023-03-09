@@ -18,7 +18,7 @@ html, body {
   width: 240px;
   height: 208px;
   background: url(images/map.png) no-repeat no-repeat;
-  transform: scale(3);
+  transform: scale(2);
   image-rendering: pixelated;
 }
 
